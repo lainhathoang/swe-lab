@@ -5,6 +5,7 @@
     - Singleton
 - Structural Pattern - những mẫu thiêt kế cho việc thiết kế cấu trúc.
     - Adapter
-- Behavioral Pattern
+- Behavioral Pattern - những mẫu thiết kế xác định các mẫu giao tiếp giữa các object.
     - Observer
     - Strategy
+    - State
