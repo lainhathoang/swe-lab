@@ -1,2 +1,10 @@
 # swe-lab
-- Là một mẫu thiết kế thuộc nhóm creation pattern - những mấu thiết kế cho việc khởi tạo của lớp.
+- Creation Pattern - những mấu thiết kế cho việc khởi tạo của lớp.
+    - Builder
+    - Factory method
+    - Singleton
+- Structural Pattern - những mẫu thiêt kế cho việc thiết kế cấu trúc.
+    - Adapter
+- Behavioral Pattern
+    - Observer
+    - Strategy
