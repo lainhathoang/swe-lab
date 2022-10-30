@@ -9,3 +9,4 @@
     - Observer
     - Strategy
     - State
+    - Visitor
